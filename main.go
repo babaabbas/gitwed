@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-/* yo bro */
+/* yo bro 2222*/
 
 func main() {
 	fmt.Println("yo")
