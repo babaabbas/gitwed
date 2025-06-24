@@ -4,12 +4,8 @@ import (
 	"fmt"
 )
 
-<<<<<<< HEAD
-/* something  2*  23424231314*/
-=======
-/* yo bro 22412413422brancha*/
+/* yo bro 2241241rgrgr3422brancha*/
 
->>>>>>> brancha
 func main() {
 	fmt.Println("yo")
 }
